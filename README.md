@@ -9,7 +9,7 @@
 
 ### 📋 Acerca de Mí
 
-Soy un estudiante de programación especializado en el desarrollo de aplicaciones multiplataforma. Mi objetivo es fundar mi propia empresa de desarrollo de software. Además de mi pasión por la tecnología, disfruto profundamente de la música y los videojuegos.
+Soy un estudiante de programación especializado en el desarrollo de aplicaciones multiplataforma. Además de mi pasión por la tecnología, disfruto profundamente de la música y los videojuegos.
 
 - 🌱 Actualmente estoy aprendiendo **Flutter y NextJS**
 - 📫 Puedes contactarme en **hector.galarza.css@gmail.com**
