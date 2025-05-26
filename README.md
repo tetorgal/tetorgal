@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋, Soy Héctor Galarza</h1>
-<h3 align="center">Desarrollador Multiplataforma Apasionado</h3>
+<h3 align="center">Desarrollador Multiplataforma</h3>
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=tetorgal&label=Profile%20views&color=0e75b6&style=flat" alt="tetorgal" /> 
